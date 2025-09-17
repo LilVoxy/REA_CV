@@ -1,9 +1,11 @@
 # REA_CV
 
 ## Демонстрация резюме
-
-![Демонстрация резюме](https://raw.githubusercontent.com/RomashovZakhar/REA_CV/refs/heads/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-11%20%D0%B2%2012.36.17.png)
-
+![alt text](images/image.png)
 ## Как запустить
+Чтобы запустить проект, откройте файл index.html в браузере.
 
-Чтобы запустить проект, откройте файл index.html в браузере."# REA_CV"  
+## Демонстрация календаря
+![alt text](images/image1.png)
+## Как запустить
+Чтобы запустить проект, откройте файл calendar.html в браузере.
